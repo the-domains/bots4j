@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bots4j]]></title>
         <description><![CDATA[bots4j]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bots4j/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 16:14:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 17:53:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bots4j/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b859256-46ed-4bcc-bb50-4f1c2637bc8e.jpg">]]></description>
-            <link>undefinedwhat-is-this/index.html</link>
+            <description><![CDATA[<p>What is this?</p>]]></description>
+            <link>https://thegrid.ai/bots4j/what-is-this/index.html</link>
             <guid isPermaLink="false">2d9070c1-eea1-4cac-9adf-fec71c3025a0</guid>
-            <pubDate>Thu, 14 Apr 2016 16:14:20 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 17:53:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
